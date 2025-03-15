@@ -1,0 +1,30 @@
+# Archivos del sistema (Windows, macOS)
+Thumbs.db
+.DS_Store
+
+# Configuración del editor (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales de Anaconda y Python
+env/
+venv/
+.conda/
+conda-meta/
+*.conda
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Variables de entorno y configuración
+.env
+config.json
+
+# Archivos de logs
+*.log
