@@ -12,14 +12,14 @@ main/
 │── src/                # Código fuente del proyecto
 ```
 
-##Descarga de Datos
+## Descarga de Datos
 Para ejecutar el proyecto, es necesario descargar los datos desde Kaggle:
 
 🔗 [Histopathologic Cancer Detection Dataset](https://www.kaggle.com/competitions/histopathologic-cancer-detection/overview)
 
 Una vez descargado, descomprime los datos dentro de la carpeta `main/data`.
 
-##Ejecución
+## Ejecución
 Abre y ejecuta el notebook ubicado en:
 ```
 main/notebooks/notebook.ipynb
