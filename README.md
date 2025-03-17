@@ -20,6 +20,10 @@ Para ejecutar el proyecto, es necesario descargar los datos desde Kaggle:
 Una vez descargado, descomprime los datos dentro de la carpeta `main/data`.
 
 ## Ejecución
+Instale las librerías necesarias con
+```
+pip install -r requirements.txt
+```
 Abre y ejecuta el notebook ubicado en:
 ```
 main/notebooks/notebook.ipynb
