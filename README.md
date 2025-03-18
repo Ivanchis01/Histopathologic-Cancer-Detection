@@ -9,7 +9,6 @@ main/
 │   ├── notebook.ipynb  # Notebook principal con el código
 │── data/               # Carpeta donde deben colocarse los datos
 │── models/             # Modelos entrenados
-│── src/                # Código fuente del proyecto
 ```
 
 ## Descarga de Datos
